@@ -5,7 +5,9 @@
 In this task, you are challenged to design and implement a program that manages a **disordered game script** using a **Linked List** data structure. The goal is to sort and display a **story-driven script**, allowing users to view it in two distinct ways: as a complete story or one line at a time.
 
 GitHub submission link to claim: https://classroom.github.com/a/U63dU6fQ
+
 Complete your submission by submitting the link onto ARC.
+
 ---
 
 ## 🎯 Learning Objectives
