@@ -16,7 +16,7 @@ Through this task, you will:
 
 - Implement and work with **Linked Lists** in C#
 - Use a **sorting algorithm** to reorder linked list nodes
-- Develop a **Graphical User Interface (GUI)** in Android (C# Xamarin or preferred tech)
+- Develop a **Graphical User Interface (GUI)** 
 - Create intuitive **user interaction features**
 
 ---
