@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Game Script Manager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a52034d3c014ce4ed4aa0b0f7b477d7b8fd52cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Game Script Manager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Game Script Manager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
