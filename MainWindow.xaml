@@ -6,7 +6,53 @@
         xmlns:local="clr-namespace:Game_Script_Manager"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
+        <!-- Header -->
+        <TextBlock Text="📘 Game Script Manager" 
+                   FontSize="24" FontWeight="Bold"
+                   Foreground="#2D3E50" Margin="0,0,0,15"
+                   HorizontalAlignment="Center"/>
+
+        <!-- Main Content Area -->
+        <Border Grid.Row="1" Padding="15" Background="White"
+                CornerRadius="10" BorderBrush="#E0E0E0" BorderThickness="1">
+            <DockPanel>
+                <!-- Mode Buttons -->
+                <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,15">
+                    <Button Content="Full Script" Width="120" Height="35" Margin="5"
+                            Background="#4A90E2" Foreground="White" BorderThickness="0"
+                            Click="FullScript_Click"/>
+                    <Button Content="Line Mode" Width="120" Height="35" Margin="5"
+                            Background="#50E3C2" Foreground="White" BorderThickness="0"
+                            Click="LineMode_Click"/>
+                </StackPanel>
+
+                <!-- Script Display -->
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <TextBlock x:Name="ScriptBox" 
+                               TextWrapping="Wrap" 
+                               FontSize="16"
+                               Foreground="#333333"
+                               Text="Story will appear here..."
+                               Padding="10"/>
+                </ScrollViewer>
+            </DockPanel>
+        </Border>
+
+        <!-- Navigation Buttons -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,0">
+            <Button Content="⏮ Previous" Width="140" Height="40" Margin="5"
+                    Background="#7B8DAB" Foreground="White" BorderThickness="0"
+                    Click="Previous_Click"/>
+            <Button Content="Next ⏭" Width="140" Height="40" Margin="5"
+                    Background="#7B8DAB" Foreground="White" BorderThickness="0"
+                    Click="Next_Click"/>
+        </StackPanel>
     </Grid>
 </Window>

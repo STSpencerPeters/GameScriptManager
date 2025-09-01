@@ -1,0 +1,21 @@
+C:\Users\spenc\source\repos\Game Script Manager\bin\Debug\net8.0-windows\Game Script Manager.exe
+C:\Users\spenc\source\repos\Game Script Manager\bin\Debug\net8.0-windows\Game Script Manager.deps.json
+C:\Users\spenc\source\repos\Game Script Manager\bin\Debug\net8.0-windows\Game Script Manager.runtimeconfig.json
+C:\Users\spenc\source\repos\Game Script Manager\bin\Debug\net8.0-windows\Game Script Manager.dll
+C:\Users\spenc\source\repos\Game Script Manager\bin\Debug\net8.0-windows\Game Script Manager.pdb
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager_MarkupCompile.cache
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager_MarkupCompile.lref
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.g.resources
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.AssemblyInfoInputs.cache
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.AssemblyInfo.cs
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.csproj.CoreCompileInputs.cache
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.sourcelink.json
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.dll
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\refint\Game Script Manager.dll
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.pdb
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\Game Script Manager.genruntimeconfig.cache
+C:\Users\spenc\source\repos\Game Script Manager\obj\Debug\net8.0-windows\ref\Game Script Manager.dll
